@@ -1,0 +1,501 @@
+type,genre,country,release_year,rating,duration_min,imdb_score
+TV Show,Documentary,Spain,2014,TV-14,138,7.9
+Movie,Drama,United States,2014,TV-14,59,5.6
+Movie,Horror,Germany,2010,TV-14,135,7.2
+Movie,Drama,United States,2017,TV-14,77,7.4
+TV Show,Crime,United States,2021,TV-14,169,8.7
+TV Show,Romance,United States,2017,TV-PG,60,5.5
+TV Show,Sci-Fi,France,2013,TV-PG,110,4.0
+Movie,Documentary,India,2022,TV-14,91,7.3
+Movie,Thriller,India,2016,PG-13,192,9.3
+Movie,Sci-Fi,United Kingdom,2020,TV-MA,168,8.6
+TV Show,Crime,Germany,2019,TV-MA,45,7.4
+Movie,Horror,United States,2012,PG-13,131,6.5
+Movie,Thriller,United States,2015,TV-MA,172,8.1
+TV Show,Mystery,Japan,2023,TV-MA,111,5.9
+TV Show,Action,United States,2019,TV-MA,48,7.7
+TV Show,Thriller,United States,2022,TV-MA,197,7.7
+TV Show,Crime,United States,2019,G,91,8.4
+Movie,Comedy,United States,2021,TV-14,82,9.5
+Movie,Action,United States,2023,G,187,7.6
+TV Show,Drama,South Korea,2018,TV-14,65,6.5
+Movie,Documentary,United Kingdom,2010,TV-14,101,7.1
+TV Show,Drama,Japan,2014,TV-MA,161,5.0
+TV Show,Thriller,India,2013,TV-PG,90,6.3
+TV Show,Drama,United States,2017,TV-MA,186,6.6
+Movie,Crime,United States,2020,R,189,6.5
+Movie,Mystery,United Kingdom,2021,R,83,7.3
+TV Show,Horror,South Korea,2010,TV-MA,181,6.1
+Movie,Documentary,United States,2018,G,143,8.4
+Movie,Drama,Germany,2015,R,121,7.1
+TV Show,Drama,United Kingdom,2013,TV-PG,159,7.1
+Movie,Thriller,South Korea,2021,TV-MA,178,6.7
+TV Show,Horror,United Kingdom,2018,TV-14,195,7.3
+TV Show,Sci-Fi,United States,2020,TV-14,135,8.1
+Movie,Drama,Brazil,2014,TV-MA,142,6.1
+Movie,Crime,Spain,2014,TV-MA,164,6.3
+Movie,Comedy,United States,2021,PG-13,90,6.7
+TV Show,Documentary,Japan,2014,TV-MA,82,5.5
+TV Show,Drama,United Kingdom,2010,TV-14,186,6.1
+Movie,Crime,Japan,2010,G,144,6.5
+Movie,Crime,Spain,2017,R,116,8.1
+TV Show,Documentary,United Kingdom,2021,TV-MA,79,7.4
+Movie,Sci-Fi,United States,2017,R,191,7.3
+TV Show,Crime,United States,2021,TV-MA,74,8.1
+Movie,Comedy,South Korea,2015,TV-MA,122,6.9
+TV Show,Crime,Germany,2021,TV-PG,128,7.6
+Movie,Crime,United States,2020,TV-14,157,7.0
+TV Show,Crime,United States,2022,TV-14,69,7.4
+Movie,Mystery,India,2013,TV-14,132,6.4
+Movie,Mystery,Mexico,2011,TV-MA,58,4.2
+TV Show,Sci-Fi,South Korea,2023,TV-MA,198,6.9
+Movie,Drama,United States,2011,TV-14,146,8.8
+Movie,Crime,United States,2018,PG-13,194,8.2
+Movie,Horror,United States,2014,TV-PG,127,8.3
+Movie,Drama,Brazil,2013,TV-MA,154,8.6
+Movie,Sci-Fi,United States,2019,TV-14,175,7.2
+Movie,Romance,South Korea,2022,TV-MA,63,7.3
+TV Show,Drama,United States,2010,TV-MA,72,6.4
+TV Show,Drama,South Korea,2016,PG-13,115,6.7
+TV Show,Action,Germany,2012,TV-MA,107,7.8
+TV Show,Thriller,India,2015,TV-MA,117,8.5
+TV Show,Action,United States,2014,TV-PG,168,6.9
+TV Show,Comedy,United States,2014,TV-PG,163,6.6
+Movie,Mystery,United States,2020,TV-PG,165,7.1
+TV Show,Mystery,Japan,2014,TV-MA,63,7.8
+TV Show,Thriller,Japan,2010,TV-MA,186,5.4
+Movie,Documentary,South Korea,2010,TV-MA,164,4.3
+TV Show,Documentary,Germany,2012,TV-MA,105,6.4
+Movie,Sci-Fi,Germany,2023,TV-PG,74,5.6
+TV Show,Thriller,United States,2021,R,53,6.5
+Movie,Drama,Brazil,2019,PG-13,108,6.9
+Movie,Documentary,United Kingdom,2013,PG-13,164,6.6
+TV Show,Crime,United Kingdom,2014,TV-14,96,8.8
+TV Show,Horror,South Korea,2011,TV-PG,133,7.5
+Movie,Drama,United States,2017,TV-14,186,7.5
+Movie,Comedy,United States,2020,TV-14,97,7.8
+Movie,Crime,France,2020,TV-14,122,5.7
+Movie,Crime,United States,2023,TV-MA,85,8.3
+TV Show,Thriller,Germany,2011,TV-14,112,7.0
+TV Show,Sci-Fi,United States,2018,PG,52,7.9
+TV Show,Comedy,United Kingdom,2011,TV-MA,46,5.8
+Movie,Documentary,United States,2022,TV-MA,149,5.2
+Movie,Thriller,United Kingdom,2018,TV-14,169,8.1
+TV Show,Documentary,France,2016,PG-13,154,7.6
+TV Show,Thriller,United States,2017,TV-14,130,6.0
+TV Show,Thriller,South Korea,2020,TV-PG,164,6.1
+TV Show,Thriller,United Kingdom,2011,TV-MA,171,8.5
+Movie,Sci-Fi,Germany,2016,TV-PG,60,5.7
+Movie,Thriller,Brazil,2021,TV-MA,106,9.1
+Movie,Romance,France,2015,R,157,6.0
+Movie,Horror,United States,2013,TV-PG,56,7.9
+TV Show,Documentary,United States,2016,TV-MA,79,6.7
+Movie,Drama,United States,2023,TV-MA,55,7.8
+Movie,Action,South Korea,2022,TV-MA,108,6.4
+Movie,Comedy,United States,2013,TV-14,94,6.9
+Movie,Mystery,United Kingdom,2011,TV-MA,193,7.1
+Movie,Sci-Fi,South Korea,2019,TV-PG,113,5.9
+Movie,Drama,United States,2021,TV-14,92,8.0
+Movie,Crime,Spain,2016,TV-MA,64,6.5
+TV Show,Romance,United States,2017,TV-MA,145,6.8
+TV Show,Mystery,United States,2011,TV-MA,181,5.9
+TV Show,Action,France,2014,R,112,4.0
+Movie,Drama,United Kingdom,2010,TV-MA,79,6.9
+TV Show,Mystery,France,2016,TV-PG,109,9.5
+Movie,Drama,United Kingdom,2017,PG-13,52,8.0
+Movie,Romance,United States,2022,TV-PG,89,7.1
+TV Show,Action,India,2015,R,131,6.8
+Movie,Crime,Spain,2014,TV-14,120,7.1
+Movie,Thriller,France,2015,G,120,7.8
+TV Show,Documentary,United States,2011,TV-MA,91,5.7
+TV Show,Crime,South Korea,2010,TV-MA,59,8.4
+TV Show,Thriller,United Kingdom,2016,TV-PG,149,8.0
+TV Show,Sci-Fi,United States,2016,G,191,8.0
+Movie,Horror,Brazil,2019,PG-13,70,7.6
+Movie,Comedy,United States,2020,TV-MA,96,7.1
+Movie,Comedy,Brazil,2019,TV-MA,137,7.9
+Movie,Documentary,United Kingdom,2023,G,194,7.8
+Movie,Action,United States,2011,TV-MA,65,6.7
+TV Show,Romance,South Korea,2011,PG-13,95,6.4
+Movie,Action,Japan,2010,R,82,7.2
+Movie,Romance,France,2019,TV-14,64,9.0
+Movie,Action,Spain,2017,TV-14,176,5.6
+Movie,Horror,Germany,2017,TV-14,99,5.3
+TV Show,Sci-Fi,France,2010,TV-MA,136,7.3
+TV Show,Sci-Fi,India,2021,R,72,7.2
+TV Show,Thriller,United States,2020,TV-14,48,7.3
+Movie,Mystery,United Kingdom,2017,R,194,7.4
+Movie,Sci-Fi,United States,2018,TV-MA,120,6.8
+Movie,Sci-Fi,Mexico,2023,PG,111,8.9
+TV Show,Crime,Brazil,2013,TV-14,130,5.2
+Movie,Crime,United States,2010,TV-MA,135,6.1
+Movie,Thriller,France,2010,TV-MA,149,7.0
+TV Show,Mystery,Brazil,2012,PG-13,45,5.1
+TV Show,Documentary,United States,2023,TV-PG,116,6.9
+TV Show,Crime,South Korea,2014,PG-13,131,9.1
+Movie,Documentary,Brazil,2014,TV-MA,50,7.1
+TV Show,Drama,United States,2018,TV-MA,197,7.4
+Movie,Crime,France,2019,TV-14,189,5.6
+Movie,Horror,United States,2023,TV-14,105,6.4
+TV Show,Mystery,Brazil,2021,TV-14,56,6.6
+Movie,Thriller,Mexico,2011,PG,50,6.7
+Movie,Drama,Brazil,2011,PG,71,8.6
+TV Show,Mystery,United Kingdom,2015,G,180,7.8
+Movie,Horror,Japan,2018,PG-13,168,5.8
+TV Show,Mystery,India,2010,TV-14,150,7.4
+TV Show,Horror,United States,2018,TV-14,137,7.7
+TV Show,Horror,India,2018,TV-14,153,8.5
+Movie,Documentary,United States,2022,R,143,9.0
+Movie,Action,South Korea,2018,TV-MA,186,5.9
+TV Show,Drama,United States,2014,TV-14,79,6.1
+TV Show,Mystery,United States,2022,TV-MA,128,5.6
+Movie,Romance,United States,2018,TV-14,100,6.8
+TV Show,Drama,France,2020,R,185,7.7
+TV Show,Action,United States,2013,PG-13,93,8.3
+Movie,Drama,France,2011,TV-MA,90,7.0
+Movie,Sci-Fi,United States,2022,PG,157,6.7
+TV Show,Romance,United States,2015,TV-PG,180,7.3
+Movie,Action,South Korea,2023,TV-MA,87,6.1
+Movie,Documentary,Spain,2013,TV-MA,192,9.5
+TV Show,Mystery,United States,2015,TV-MA,168,5.2
+Movie,Comedy,Germany,2012,TV-MA,141,7.3
+TV Show,Action,Japan,2015,G,134,9.5
+Movie,Thriller,Germany,2011,TV-14,83,7.1
+Movie,Mystery,United States,2011,R,129,6.9
+Movie,Action,United States,2022,TV-MA,106,6.7
+TV Show,Sci-Fi,Japan,2018,TV-MA,150,6.9
+Movie,Comedy,United States,2016,TV-14,151,8.7
+TV Show,Sci-Fi,Japan,2012,TV-MA,98,4.4
+TV Show,Comedy,South Korea,2022,TV-14,170,8.9
+TV Show,Thriller,Brazil,2020,G,53,5.4
+Movie,Mystery,Spain,2010,TV-14,132,6.8
+Movie,Documentary,Mexico,2017,TV-PG,81,6.6
+TV Show,Sci-Fi,United Kingdom,2023,TV-MA,93,7.8
+Movie,Sci-Fi,Spain,2015,TV-MA,85,5.2
+TV Show,Horror,United Kingdom,2016,TV-MA,61,7.7
+Movie,Comedy,United Kingdom,2018,TV-14,132,9.5
+TV Show,Crime,Germany,2014,TV-MA,65,5.5
+Movie,Mystery,Japan,2010,TV-14,95,7.3
+TV Show,Comedy,Mexico,2021,TV-14,103,6.3
+Movie,Horror,Spain,2019,TV-14,85,7.6
+TV Show,Drama,United Kingdom,2016,TV-MA,83,7.1
+TV Show,Comedy,United Kingdom,2014,TV-MA,185,6.3
+TV Show,Documentary,France,2012,G,55,7.7
+Movie,Mystery,United States,2021,TV-PG,191,9.3
+Movie,Horror,United States,2022,TV-14,183,6.9
+TV Show,Drama,United Kingdom,2018,TV-MA,121,8.0
+Movie,Romance,United States,2010,PG,171,5.5
+Movie,Horror,United States,2010,TV-PG,90,6.0
+Movie,Romance,United States,2010,TV-MA,89,7.7
+Movie,Mystery,United States,2012,R,45,8.9
+TV Show,Sci-Fi,United States,2021,TV-MA,152,7.5
+TV Show,Horror,Mexico,2015,TV-14,63,6.7
+Movie,Thriller,United Kingdom,2019,TV-PG,120,7.1
+Movie,Romance,United Kingdom,2020,TV-MA,116,5.6
+Movie,Documentary,Germany,2012,PG,153,7.8
+TV Show,Thriller,United States,2017,PG-13,56,8.2
+TV Show,Action,Brazil,2023,TV-14,89,6.6
+Movie,Action,Spain,2023,TV-MA,134,6.5
+Movie,Drama,United States,2019,TV-MA,147,7.4
+Movie,Sci-Fi,United Kingdom,2011,TV-MA,52,6.6
+Movie,Mystery,Japan,2023,PG-13,197,7.0
+Movie,Horror,Brazil,2018,TV-MA,135,9.5
+TV Show,Crime,United Kingdom,2012,TV-14,131,6.8
+TV Show,Documentary,Germany,2014,PG-13,128,6.7
+Movie,Romance,United States,2019,TV-MA,126,6.3
+Movie,Mystery,Mexico,2017,TV-PG,190,8.0
+TV Show,Thriller,United States,2011,TV-MA,112,6.9
+TV Show,Action,Brazil,2015,PG,171,6.3
+Movie,Documentary,Germany,2021,TV-14,126,8.7
+TV Show,Crime,Germany,2014,TV-MA,191,8.8
+TV Show,Horror,South Korea,2022,TV-MA,128,6.4
+Movie,Drama,United States,2019,TV-14,157,4.9
+Movie,Crime,United States,2018,PG-13,120,8.3
+Movie,Documentary,United States,2021,PG-13,166,6.3
+TV Show,Crime,United States,2014,TV-PG,187,8.0
+Movie,Documentary,Spain,2011,TV-MA,85,4.7
+TV Show,Documentary,United Kingdom,2014,TV-MA,46,8.2
+TV Show,Comedy,United States,2021,TV-MA,73,5.6
+Movie,Romance,Mexico,2013,TV-14,149,8.0
+Movie,Action,Japan,2020,R,95,7.1
+Movie,Comedy,Brazil,2016,TV-14,119,6.0
+Movie,Horror,Mexico,2015,TV-MA,54,6.6
+Movie,Comedy,United States,2023,TV-14,186,7.9
+TV Show,Sci-Fi,United Kingdom,2011,PG-13,95,7.2
+TV Show,Sci-Fi,Spain,2021,PG-13,162,7.8
+TV Show,Action,France,2020,R,165,9.5
+TV Show,Crime,United States,2020,TV-MA,83,5.2
+Movie,Romance,India,2022,TV-MA,72,9.0
+TV Show,Action,United States,2014,R,47,7.2
+Movie,Documentary,United States,2016,TV-PG,128,6.0
+Movie,Thriller,South Korea,2020,TV-MA,199,5.5
+Movie,Romance,South Korea,2016,PG-13,161,6.9
+Movie,Romance,South Korea,2014,PG-13,46,8.2
+Movie,Documentary,United States,2021,TV-PG,137,6.9
+Movie,Documentary,Japan,2018,TV-PG,175,8.9
+TV Show,Drama,United States,2013,TV-14,188,5.4
+Movie,Action,United States,2020,TV-14,138,7.1
+TV Show,Documentary,Japan,2012,TV-14,84,5.6
+TV Show,Sci-Fi,Brazil,2013,R,46,7.5
+Movie,Horror,Japan,2014,R,125,8.2
+TV Show,Thriller,Spain,2022,R,56,6.6
+Movie,Action,Germany,2015,TV-MA,109,4.0
+Movie,Mystery,South Korea,2012,PG-13,99,7.3
+Movie,Sci-Fi,United States,2011,PG-13,89,7.6
+TV Show,Crime,United Kingdom,2023,TV-PG,145,7.6
+TV Show,Documentary,United Kingdom,2022,PG-13,106,8.6
+Movie,Mystery,United States,2013,R,93,5.8
+Movie,Documentary,France,2014,TV-14,171,7.9
+Movie,Romance,United Kingdom,2013,TV-14,197,8.5
+Movie,Sci-Fi,United States,2023,TV-MA,67,5.0
+Movie,Romance,United States,2020,TV-14,196,7.5
+TV Show,Drama,France,2022,TV-PG,82,6.5
+TV Show,Romance,United States,2021,PG-13,72,7.0
+Movie,Drama,India,2012,TV-MA,65,7.5
+TV Show,Drama,United Kingdom,2017,TV-MA,151,6.5
+TV Show,Mystery,United Kingdom,2019,TV-PG,190,6.3
+Movie,Documentary,South Korea,2013,TV-MA,143,7.1
+Movie,Crime,India,2023,TV-MA,163,5.8
+Movie,Romance,United States,2011,TV-MA,117,5.8
+Movie,Sci-Fi,Germany,2011,TV-MA,166,7.9
+TV Show,Drama,South Korea,2010,TV-MA,74,5.7
+Movie,Documentary,United States,2022,TV-14,152,7.9
+Movie,Thriller,Japan,2013,TV-14,142,7.7
+TV Show,Action,Spain,2019,R,76,5.0
+Movie,Mystery,Germany,2018,TV-14,123,6.3
+Movie,Crime,India,2023,PG-13,85,8.5
+Movie,Comedy,Japan,2020,TV-MA,107,5.9
+Movie,Mystery,France,2016,TV-MA,67,6.5
+Movie,Thriller,India,2021,PG-13,148,7.7
+TV Show,Action,France,2019,TV-MA,119,8.0
+TV Show,Thriller,France,2016,TV-14,92,6.8
+Movie,Romance,Germany,2022,TV-14,101,6.4
+Movie,Drama,Spain,2016,TV-PG,162,8.8
+Movie,Crime,United States,2017,TV-MA,144,9.2
+Movie,Horror,Japan,2010,TV-MA,168,8.3
+Movie,Drama,Japan,2019,TV-PG,196,7.2
+Movie,Horror,United States,2022,TV-MA,78,6.1
+Movie,Action,India,2019,TV-PG,51,6.1
+Movie,Documentary,United States,2017,PG-13,100,7.7
+Movie,Comedy,United States,2013,PG,109,7.6
+Movie,Sci-Fi,France,2013,TV-MA,91,8.8
+Movie,Drama,United States,2013,R,192,7.9
+TV Show,Crime,India,2015,TV-14,63,5.3
+TV Show,Thriller,India,2016,TV-14,190,8.4
+TV Show,Crime,South Korea,2015,TV-MA,170,5.9
+Movie,Action,United States,2010,PG-13,183,6.6
+TV Show,Horror,United States,2021,TV-MA,93,7.4
+Movie,Thriller,Germany,2017,TV-14,157,9.5
+Movie,Sci-Fi,Mexico,2022,TV-MA,82,9.5
+TV Show,Sci-Fi,Germany,2019,PG-13,108,7.8
+Movie,Drama,United States,2020,PG-13,113,6.9
+TV Show,Action,Germany,2022,PG-13,180,7.7
+TV Show,Documentary,South Korea,2016,TV-MA,160,8.2
+Movie,Action,Spain,2015,TV-MA,109,6.7
+TV Show,Horror,United States,2015,TV-PG,75,9.3
+TV Show,Crime,Spain,2014,TV-14,176,7.4
+Movie,Sci-Fi,South Korea,2015,TV-MA,157,7.7
+Movie,Crime,Mexico,2021,TV-PG,153,7.9
+TV Show,Crime,United States,2018,PG,113,7.6
+Movie,Crime,Germany,2019,PG-13,164,8.1
+TV Show,Sci-Fi,Brazil,2018,PG-13,132,6.4
+TV Show,Mystery,United States,2019,G,111,6.4
+Movie,Romance,Brazil,2017,TV-MA,119,5.8
+Movie,Horror,France,2019,TV-14,89,7.6
+Movie,Mystery,United States,2018,PG,48,8.0
+Movie,Horror,United States,2022,TV-MA,198,7.6
+Movie,Thriller,France,2019,PG-13,199,9.1
+Movie,Action,United States,2017,TV-14,151,7.1
+TV Show,Action,South Korea,2017,TV-14,95,7.9
+Movie,Comedy,United States,2010,TV-PG,94,5.8
+TV Show,Action,Germany,2019,G,50,6.6
+Movie,Sci-Fi,United States,2020,PG-13,103,7.9
+TV Show,Documentary,Japan,2014,TV-MA,169,8.1
+TV Show,Drama,Mexico,2013,R,187,6.7
+Movie,Comedy,Mexico,2011,TV-MA,74,7.0
+Movie,Drama,France,2017,TV-14,166,5.3
+Movie,Horror,United States,2012,TV-14,169,6.7
+Movie,Drama,Spain,2013,TV-14,81,8.2
+TV Show,Drama,United States,2021,TV-14,168,7.8
+TV Show,Comedy,United States,2016,G,145,7.7
+TV Show,Thriller,United States,2019,PG-13,79,7.2
+Movie,Crime,United Kingdom,2018,TV-PG,131,7.1
+Movie,Action,Spain,2011,TV-MA,178,6.3
+Movie,Action,France,2012,R,62,7.9
+TV Show,Sci-Fi,United Kingdom,2013,R,157,7.6
+Movie,Comedy,United States,2019,PG-13,73,7.7
+Movie,Sci-Fi,Mexico,2010,TV-MA,121,6.5
+Movie,Documentary,United Kingdom,2016,TV-MA,103,4.5
+Movie,Documentary,United Kingdom,2011,TV-MA,170,8.4
+Movie,Sci-Fi,United States,2014,TV-MA,189,6.5
+TV Show,Comedy,Spain,2010,TV-14,153,6.1
+TV Show,Sci-Fi,France,2012,G,66,7.9
+Movie,Action,United States,2021,TV-14,112,6.6
+TV Show,Mystery,United States,2011,TV-MA,113,8.4
+TV Show,Romance,France,2010,TV-MA,93,7.8
+TV Show,Drama,Germany,2016,TV-MA,185,7.9
+TV Show,Romance,United States,2014,TV-MA,153,5.5
+Movie,Comedy,Brazil,2010,TV-MA,130,8.6
+Movie,Romance,United States,2015,TV-MA,97,7.4
+Movie,Documentary,United Kingdom,2014,PG-13,167,6.7
+TV Show,Horror,Brazil,2012,PG,131,7.3
+Movie,Drama,United Kingdom,2021,TV-14,175,5.0
+Movie,Crime,Germany,2016,TV-14,86,7.6
+TV Show,Comedy,United Kingdom,2020,R,142,5.9
+Movie,Drama,United States,2019,TV-MA,153,5.5
+TV Show,Romance,Mexico,2018,TV-MA,95,5.3
+Movie,Documentary,United Kingdom,2023,R,129,8.4
+Movie,Thriller,Japan,2022,TV-MA,171,6.3
+TV Show,Mystery,United States,2022,TV-PG,65,8.9
+TV Show,Crime,United States,2018,TV-14,88,6.5
+Movie,Mystery,United States,2023,TV-MA,183,5.1
+Movie,Drama,Germany,2018,TV-MA,147,5.8
+Movie,Documentary,United Kingdom,2011,PG-13,112,8.6
+Movie,Documentary,Japan,2012,TV-MA,173,6.9
+TV Show,Romance,United Kingdom,2016,TV-MA,136,6.4
+TV Show,Action,Mexico,2014,PG-13,68,7.3
+Movie,Romance,United States,2011,TV-14,169,7.7
+TV Show,Action,Japan,2012,TV-MA,185,8.4
+Movie,Action,Spain,2019,R,155,8.8
+Movie,Crime,Spain,2015,TV-14,142,6.7
+Movie,Romance,India,2022,R,183,5.5
+TV Show,Thriller,Spain,2016,PG-13,61,6.6
+Movie,Sci-Fi,Germany,2018,TV-PG,143,7.4
+Movie,Sci-Fi,United States,2010,TV-14,126,5.9
+Movie,Romance,United States,2020,PG,148,6.0
+Movie,Romance,Brazil,2016,TV-MA,196,7.5
+TV Show,Mystery,Germany,2017,PG-13,63,7.0
+Movie,Crime,Spain,2021,TV-MA,129,7.1
+Movie,Romance,United Kingdom,2023,TV-MA,52,6.2
+TV Show,Mystery,United States,2012,TV-MA,72,6.8
+TV Show,Action,United States,2013,G,49,6.0
+TV Show,Documentary,France,2019,PG,189,8.2
+TV Show,Documentary,United Kingdom,2015,TV-MA,145,8.3
+TV Show,Action,United States,2019,TV-MA,162,4.9
+Movie,Comedy,United Kingdom,2016,PG-13,191,6.0
+TV Show,Mystery,United States,2022,TV-14,108,5.3
+TV Show,Mystery,South Korea,2023,TV-MA,135,6.3
+Movie,Action,United States,2013,TV-PG,161,7.0
+TV Show,Thriller,Spain,2017,TV-14,142,5.4
+Movie,Horror,United States,2014,PG,55,6.0
+TV Show,Drama,United Kingdom,2010,TV-MA,98,5.9
+TV Show,Action,United States,2013,TV-14,91,7.3
+Movie,Romance,United States,2012,TV-14,184,7.2
+Movie,Romance,United Kingdom,2018,PG-13,193,6.2
+Movie,Crime,United Kingdom,2017,TV-14,183,7.3
+Movie,Action,Germany,2010,TV-PG,49,6.4
+Movie,Crime,United States,2020,TV-MA,64,6.8
+TV Show,Action,France,2015,R,90,9.1
+TV Show,Mystery,Japan,2018,TV-14,56,8.7
+Movie,Drama,Spain,2016,TV-MA,114,5.5
+Movie,Mystery,United States,2013,TV-PG,61,8.1
+Movie,Horror,United Kingdom,2022,TV-MA,159,8.1
+Movie,Documentary,United States,2010,TV-MA,191,5.7
+TV Show,Sci-Fi,United States,2021,R,198,8.1
+Movie,Action,Mexico,2011,TV-14,92,8.9
+TV Show,Horror,United States,2021,PG-13,152,5.8
+Movie,Documentary,United Kingdom,2014,TV-MA,96,6.0
+Movie,Comedy,Germany,2021,PG-13,140,8.3
+Movie,Drama,France,2020,TV-MA,114,7.4
+Movie,Crime,South Korea,2014,TV-14,146,7.8
+Movie,Crime,United States,2017,PG,119,7.5
+TV Show,Mystery,United States,2015,PG-13,195,7.6
+Movie,Romance,South Korea,2017,TV-14,187,5.5
+Movie,Documentary,United States,2011,TV-MA,199,8.4
+Movie,Comedy,United Kingdom,2012,R,126,8.5
+TV Show,Horror,United States,2015,TV-14,136,6.8
+Movie,Drama,United States,2021,PG-13,48,7.0
+TV Show,Documentary,United Kingdom,2022,PG-13,179,5.3
+TV Show,Comedy,United States,2019,TV-MA,153,7.7
+Movie,Sci-Fi,South Korea,2012,TV-MA,92,7.8
+TV Show,Action,France,2015,TV-PG,117,7.0
+TV Show,Crime,Spain,2015,TV-MA,116,8.4
+Movie,Horror,United States,2011,TV-MA,160,6.7
+Movie,Crime,United States,2016,G,125,7.8
+Movie,Horror,United States,2021,TV-14,125,5.9
+Movie,Mystery,Germany,2011,PG-13,157,7.1
+Movie,Romance,France,2015,TV-14,140,6.9
+TV Show,Horror,United States,2010,TV-14,116,7.4
+TV Show,Crime,Brazil,2012,TV-MA,191,6.7
+Movie,Mystery,United States,2011,TV-MA,107,6.9
+Movie,Horror,South Korea,2016,TV-MA,82,8.1
+Movie,Sci-Fi,France,2023,TV-14,111,6.6
+Movie,Romance,Japan,2013,PG-13,113,5.2
+TV Show,Horror,France,2017,TV-14,57,9.2
+Movie,Mystery,Spain,2015,TV-14,75,8.8
+TV Show,Documentary,United States,2021,TV-14,158,5.5
+Movie,Thriller,India,2019,TV-MA,66,7.9
+Movie,Comedy,United States,2013,TV-14,137,6.5
+Movie,Thriller,Japan,2014,TV-MA,111,7.4
+TV Show,Thriller,South Korea,2022,TV-MA,98,7.5
+TV Show,Drama,India,2022,TV-MA,182,6.8
+TV Show,Sci-Fi,United Kingdom,2018,TV-14,86,6.2
+Movie,Documentary,Germany,2016,PG-13,108,6.3
+Movie,Action,South Korea,2019,TV-MA,170,6.0
+TV Show,Horror,France,2023,TV-MA,65,6.1
+TV Show,Comedy,United States,2023,TV-PG,196,7.0
+Movie,Romance,United States,2018,TV-MA,79,6.2
+TV Show,Documentary,United States,2016,R,74,7.9
+Movie,Crime,United States,2021,TV-14,101,8.9
+Movie,Action,Japan,2010,TV-14,91,6.4
+TV Show,Drama,United States,2021,TV-14,63,7.4
+TV Show,Drama,Mexico,2017,TV-MA,158,7.7
+Movie,Documentary,United States,2013,TV-PG,52,7.7
+TV Show,Mystery,United States,2012,TV-14,70,7.2
+TV Show,Thriller,Spain,2023,R,157,8.0
+Movie,Crime,Germany,2022,TV-MA,115,7.7
+Movie,Drama,United Kingdom,2016,TV-14,74,5.6
+Movie,Comedy,South Korea,2021,TV-14,179,8.1
+Movie,Drama,France,2012,TV-MA,111,8.2
+TV Show,Romance,United States,2017,TV-14,109,6.2
+TV Show,Horror,Mexico,2015,PG-13,80,7.1
+Movie,Drama,Mexico,2014,R,69,7.9
+Movie,Romance,Germany,2013,TV-MA,81,6.8
+Movie,Documentary,United States,2017,PG-13,45,8.4
+Movie,Documentary,France,2017,PG,187,9.5
+TV Show,Action,United States,2021,R,81,6.2
+Movie,Drama,United States,2010,TV-MA,185,5.4
+TV Show,Comedy,United States,2018,PG-13,180,7.5
+Movie,Drama,United Kingdom,2023,TV-MA,177,8.0
+TV Show,Comedy,Japan,2014,PG,172,6.8
+TV Show,Sci-Fi,France,2013,TV-14,171,8.8
+TV Show,Action,France,2015,TV-MA,45,5.5
+Movie,Sci-Fi,United Kingdom,2015,PG-13,79,7.9
+Movie,Drama,United States,2011,TV-MA,148,6.4
+Movie,Action,United Kingdom,2017,PG,67,9.2
+Movie,Sci-Fi,Mexico,2016,PG,53,9.5
+TV Show,Thriller,United States,2010,TV-PG,78,6.2
+TV Show,Drama,Japan,2014,TV-MA,172,6.4
+Movie,Sci-Fi,South Korea,2021,TV-PG,48,8.1
+TV Show,Thriller,United Kingdom,2015,TV-MA,146,6.6
+Movie,Thriller,France,2013,TV-MA,119,7.0
+TV Show,Documentary,United Kingdom,2011,R,143,7.1
+Movie,Drama,Japan,2022,TV-MA,116,4.8
+TV Show,Thriller,Japan,2023,TV-14,47,7.1
+Movie,Documentary,United Kingdom,2013,PG,186,6.3
+Movie,Sci-Fi,United States,2010,TV-MA,78,6.5
+Movie,Romance,South Korea,2016,TV-MA,89,8.8
+TV Show,Drama,Brazil,2011,R,105,5.6
+Movie,Action,United States,2022,TV-MA,127,8.1
+Movie,Comedy,Germany,2011,PG-13,167,6.8
+Movie,Comedy,Germany,2018,PG,146,6.8
+Movie,Sci-Fi,France,2014,R,60,8.0
+Movie,Mystery,United States,2011,TV-PG,110,7.5
+Movie,Mystery,France,2020,TV-MA,189,7.8
+Movie,Sci-Fi,Japan,2018,TV-MA,163,8.3
+Movie,Thriller,United States,2018,PG-13,168,6.7
+Movie,Drama,United States,2010,R,188,6.4
+TV Show,Comedy,Mexico,2020,TV-14,146,5.8
+TV Show,Comedy,United States,2012,TV-MA,110,6.1
+Movie,Thriller,India,2013,TV-MA,57,9.5
+Movie,Comedy,United Kingdom,2023,TV-MA,155,8.6
+Movie,Action,United States,2016,PG-13,78,5.5
+Movie,Drama,Japan,2019,TV-14,83,5.5
+TV Show,Horror,United Kingdom,2013,R,180,7.7
+TV Show,Comedy,South Korea,2011,PG-13,164,7.8
+Movie,Sci-Fi,United Kingdom,2016,TV-MA,170,7.8
+TV Show,Action,South Korea,2015,TV-PG,99,6.8
+Movie,Comedy,United States,2012,TV-14,71,6.9
+TV Show,Action,United Kingdom,2015,TV-14,162,7.5
+Movie,Documentary,Mexico,2020,PG-13,97,7.2
+Movie,Horror,United States,2015,PG-13,83,4.4
